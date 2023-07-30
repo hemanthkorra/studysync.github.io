@@ -1,1 +1,1 @@
-# studysync.github.io
+# study_sync.github.io
